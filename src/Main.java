@@ -26,7 +26,7 @@ public class Main {
         String confirmPassword = "Aa12345678";
 
         System.out.println("checkRegisterData = " + checkRegisterData(login, password, confirmPassword));
-        System.out.println("login.matches = " + login.matches("[a-zA-Z0-9_]+"));
-        System.out.println("password.matches = " + password.matches("[a-zA-Z0-9_]+"));
+//        System.out.println("login.matches = " + login.matches("[a-zA-Z0-9_]+"));
+//        System.out.println("password.matches = " + password.matches("[a-zA-Z0-9_]+"));
     }
 }
